@@ -7,8 +7,8 @@
 ### [La Playliste complète sur Youtube/ Full Playlist on YouTube](https://www.youtube.com/channel/UCzvbhmjj1E0lJB9_O5tF79w)
 
 
-|  #  |                                   PROJET/ PROJECT                                 |                Picture/Live Demo                 |
-| ----|:----------------------------------------------------------------------------------|:-------------------------------------------------|
-|  1  |  Le Clone de la Page de connexion de Pluralsight/ Pluralsight Login Page Clone    | [Pluralsight Clone](https://iili.io/XnK3Je.png)
-|  2  |  Une Page de Destination Completement 'Responsive'/ Fully Responsive Landing Page | [Fully Responsive](https://iili.io/XnKV7n.png)             
+| # |                                   PROJET/ PROJECT                                 |                Picture/Live Demo                       |
+| --|:----------------------------------------------------------------------------------|:-------------------------------------------------------|
+| 1 |  Le Clone de la Page de connexion de Pluralsight/ Pluralsight Login Page Clone    | [Pluralsight Clone](https://iili.io/XnK3Je.png)
+| 2 |  Une Page de Destination Complètement 'Responsive'/ Fully Responsive Landing Page | [Complètement 'Responsive'](https://iili.io/XnKV7n.png)             
 
