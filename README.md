@@ -1,4 +1,4 @@
-# html_css_seulement/ html_css_only
+# Python_pour_tout_le_monde
 
 ## Ceci est un repositoire pour tout les cours sur HTML et CSS
 ### This is the main repository for all HTML and CSS courses
