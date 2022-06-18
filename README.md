@@ -5,7 +5,7 @@
 
 ### [Videos des projets sur Youtube/ Projects videos on Youtube (Playlist)](https://www.youtube.com/channel/UCzvbhmjj1E0lJB9_O5tF79w)
 
-### [Mes Cours Complets sur Python/ python Course Link](https://www.youtube.com/channel/UCzvbhmjj1E0lJB9_O5tF79w)
+### [Mes Cours Complets sur Python/ Python Course Link](https://www.youtube.com/channel/UCzvbhmjj1E0lJB9_O5tF79w)
 
 
 | # |                                          Les vidéos/ Videos                      |           Images/Pictures or Live Demo                 |  
