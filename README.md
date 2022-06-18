@@ -1,4 +1,4 @@
-# Python: Projets Pour Débutants
+# Python: Projets Pour Débutants / Biginner Projects
 
 ## Ceci est un repositoire des projets de "python pour débutants".
 ### This is the main repository for all "python for beginners" projects.
